@@ -2,31 +2,11 @@
 
  To run the calculator type "make install" in the terminal.
 
- In this project we will implement an extended version of the usual calculator, which can be found in the standard applications of each operating system. In addition to basic arithmetic operations such as add/subtract and multiply/divide, we need to supplement the calculator with the ability to calculate arithmetic expressions by following the order, as well as some mathematical functions (sin, cos, sqrt, etc.).
+ This project implements an extended version of the conventional calculator found in the standard applications of every operating system, using the MVC  pattern.
 
 ![Image alt](https://github.com/iayako/fuzzy-quasar/blob/main/images/smartcalc1.png)
 
- Bracketed arithmetic expressions in infix notation must support the following arithmetic operations and mathematical functions:
-
-	Brackets: (a + b);
-	Addition: a + b;
-	Subtraction: a - b;
-	Multiplication: a * b;
-	Division: a / b;
-	Power: a ^ b;
-	Modulus: a mod b;
-	Unary minus: -a;
-	cos(x);
-	sin(x);
-	tan(x);
-	acos(x);
-	asin(x);
-	atan(x);
-	sqrt(x);
-	ln(x);
-	log(x).
-
- It is possible to graph the function
+ It is possible to graph the function:
 
 ![Image alt](https://github.com/iayako/fuzzy-quasar/blob/main/images/smartcalc2.png)
 
