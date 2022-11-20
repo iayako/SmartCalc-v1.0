@@ -1,4 +1,7 @@
 # SmartCalc v1.0
+
+ To run the calculator type "make install" in the terminal.
+
  In this project we will implement an extended version of the usual calculator, which can be found in the standard applications of each operating system. In addition to basic arithmetic operations such as add/subtract and multiply/divide, we need to supplement the calculator with the ability to calculate arithmetic expressions by following the order, as well as some mathematical functions (sin, cos, sqrt, etc.).
 
 ![Image alt](https://github.com/iayako/fuzzy-quasar/blob/main/images/smartcalc1.png)
